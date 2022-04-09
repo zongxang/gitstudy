@@ -1,2 +1,6 @@
 git is good edit by hot_fix
+<<<<<<< HEAD
 edit by hot_fix
+=======
+edit by master
+>>>>>>> master
